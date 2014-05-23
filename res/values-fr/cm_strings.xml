@@ -67,6 +67,13 @@
     <string name="pref_unicode_stripping_leave_intact">Conserver les caractères</string>
     <string name="pref_unicode_stripping_non_encodable">Enlever les caractères non encodables</string>
     <string name="pref_unicode_stripping_all">Enlever tous les caractères Unicode</string>
+    <string name="pref_title_enable_emojis">Support Emoji</string>
+    <string name="pref_summary_enable_emojis">Activer le support des emojis, 471 belles émoticônes</string>
+    <string name="menu_insert_smiley">Insérer un smiley</string>
+    <string name="menu_insert_emoji">Insérer un emojis</string>
+    <string name="pref_title_enable_quick_emojis">Bouton rapide emoji</string>
+    <string name="pref_summary_enable_quick_emojis">Afficher un bouton à côté de la zone de texte d\'entrée pour un accès rapide emoji</string>
+    <string name="pref_title_enable_softbank_encoding">SoftBank emoji</string>
     <string name="pref_title_mms_full_timestamp">Date complète</string>
     <string name="pref_summary_mms_full_timestamp">Afficher la date et l\'heure des messages</string>
     <string name="pref_title_mms_use_sent_timestamp">Date originale</string>
@@ -84,6 +91,7 @@
     <string name="add_to_blacklist_message">Les futurs messages de %s seront bloqués</string>
     <string name="alert_dialog_yes">Oui</string>
     <string name="alert_dialog_no">Non</string>
+    <string name="menu_as_unread">Marquer comme non lu</string>
     <string name="select_recipients">Sélectionnez les destinataires</string>
     <string name="groups_header">Groupes</string>
     <string name="no_recipients">Aucun contact trouvé</string>
@@ -100,4 +108,12 @@
     <string name="send_delay_20seconds">20 secondes</string>
     <string name="send_delay_30seconds">30 secondes</string>
     <string name="sent_countdown">Décompte avant l\'envoi</string>
+    <string name="pref_title_mms_notification_vibrate_pattern">Modèle Vibreur</string>
+    <string name="pref_summary_mms_notification_vibrate_pattern">Changer le Vibreur</string>
+    <string name="pref_mms_notification_vibrate_normal">Normal</string>
+    <string name="pref_mms_notification_vibrate_med_vib">Vibration moyenne</string>
+    <string name="pref_mms_notification_vibrate_long_vib">Vibration longue</string>
+    <string name="pref_mms_notification_vibrate_mult_short">Vibration multiple</string>
+    <string name="pref_mms_notification_vibrate_mult_long">Multiple longue</string>
+
 </resources>
