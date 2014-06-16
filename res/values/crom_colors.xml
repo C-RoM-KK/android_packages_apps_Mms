@@ -43,4 +43,18 @@
     <color name="dividers">#eeeeee</color>
     <color name="transparent">#00000000</color>
 
+
+    <color name="delivery_report_header_bg">#ff888888</color>
+    <color name="delivery_report_header_title">#ffffffff</color>
+
+    <color name="recipients_editor_text">#000000</color>
+
+    <color name="sim_list_bg">#ffffffff</color>
+
+    <color name="delivery_report_list_item_bg">#ffffffff</color>
+    <color name="delivery_report_list_recipient_text">#ff000000</color>
+    <color name="delivery_report_list_status_text">#ff000000</color>
+    <color name="delivery_report_list_date_text">#ff000000</color>
+    <color name="delivery_report_list_icon_bg">#ffffffff</color>
+
 </resources>
